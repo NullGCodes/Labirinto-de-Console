@@ -1,0 +1,14 @@
+E:\Codigo de Movimento\Codigo de Movimento\bin\Debug\netcoreapp3.1\Labirinto.exe
+E:\Codigo de Movimento\Codigo de Movimento\bin\Debug\netcoreapp3.1\Labirinto.deps.json
+E:\Codigo de Movimento\Codigo de Movimento\bin\Debug\netcoreapp3.1\Labirinto.runtimeconfig.json
+E:\Codigo de Movimento\Codigo de Movimento\bin\Debug\netcoreapp3.1\Labirinto.runtimeconfig.dev.json
+E:\Codigo de Movimento\Codigo de Movimento\bin\Debug\netcoreapp3.1\Labirinto.dll
+E:\Codigo de Movimento\Codigo de Movimento\bin\Debug\netcoreapp3.1\Labirinto.pdb
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.AssemblyInfoInputs.cache
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.AssemblyInfo.cs
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.csproj.CoreCompileInputs.cache
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.dll
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.pdb
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.genruntimeconfig.cache
+E:\Codigo de Movimento\Codigo de Movimento\obj\Debug\netcoreapp3.1\Labirinto.csproj.AssemblyReference.cache
